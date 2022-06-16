@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">OnliLib</string>
     <string name="by_bhawna_chauhan">By - Bhawna Chauhan</string>
+    <string name="let_s_get_started_text">Let\'s Get Started</string>
+    <string name="app_intro">A new way to manage Library.Manage your all things using our Android Application OnliLib</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
