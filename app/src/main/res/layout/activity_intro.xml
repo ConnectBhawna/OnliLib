@@ -77,9 +77,10 @@
         tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
+        android:id="@+id/btn_sign_up_intro"
         android:layout_width="368dp"
         android:layout_height="56dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="16dp"
         android:background="@drawable/white_border_shape_button_rounded"
         android:backgroundTint="@null"
         android:text="@string/sign_up"
