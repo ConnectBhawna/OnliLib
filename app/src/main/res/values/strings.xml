@@ -5,4 +5,8 @@
     <string name="app_intro">A new way to manage Library.Manage your all things using our Android Application OnliLib</string>
     <string name="sign_in">Sign In</string>
     <string name="sign_up">Sign Up</string>
+    <string name="email">xyz@gmail.com</string>
+    <string name="password">***</string>
+    <string name="name">Bhawna chauhan</string>
+    <string name="sign_up_description_text">Hey please enter your details</string>
 </resources>
