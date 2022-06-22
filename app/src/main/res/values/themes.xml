@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.OnliLib" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#EF0F5C</item>
-        <item name="colorPrimaryVariant">#690527</item>
+        <item name="colorPrimary">#29026D</item>
+        <item name="colorPrimaryVariant">#754BBF</item>
         <item name="colorOnPrimary">#DF5785</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">#D35F87</item>
